@@ -6,4 +6,6 @@ Nom Complet: AYA BENGHERIFA -Classe:G32 -Site:Centre
 -BILLING SERVICE :
 ![3](https://user-images.githubusercontent.com/80550745/219697302-767e48f3-20ec-4cd5-b54c-c918bfd3da7d.jpg)
 
+-Et pour la partie Client Web Angular (Clients, Produits, Factures):
+
 
