@@ -20,6 +20,9 @@ Nom Complet: AYA BENGHERIFA -Classe:G32 -Site:Centre
 ![w8 zookeper](https://user-images.githubusercontent.com/80550745/219698993-d34eda5f-09b6-4547-bbf7-b05db5d7fae5.jpg)
 
 -Utilisateur connecté:
+![userConnected](https://user-images.githubusercontent.com/80550745/219699750-5d0b6c99-c8c1-4c48-8cb2-fbdb0da21af3.jpg)
+![userNotConnected](https://user-images.githubusercontent.com/80550745/219699760-a593f685-cbbf-40e3-9590-0339f3e053ea.jpg)
+
 
 
 
